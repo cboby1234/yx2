@@ -20,6 +20,8 @@
 gur.gov.ua#大厂优选域名,
 getbootstrap.com#大厂优选域名,
 icons.getbootstrap.com#大厂优选域名,
+themes.getbootstrap.com#大厂优选域名,
+blog.getbootstrap.com#大厂优选域名,
 shopify.com#大厂优选域名,
 cdnjs.com#【推荐】优选域名,
 www.racknerd.com#大厂优选域名,
